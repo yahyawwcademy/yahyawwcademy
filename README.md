@@ -31,8 +31,7 @@ We believe the best way to learn is by **creating together**.
 We’re not just code — we’re people. Come learn, share, and grow with us:
 
 - 💬 [Discord](https://discord.gg/YOUR_DISCORD) — chat in real time  
-- 📢 [Reddit](https://reddit.com/r/YahyawwCademy) — discussions, feedback, announcements  
-- 🐦 [Twitter](https://twitter.com/YahyawwCademy) — quick updates and news  
+- 📢 [Reddit](https://reddit.com/r/YahyawwCademy) — discussions, feedback, announcements
 
 ---
 
