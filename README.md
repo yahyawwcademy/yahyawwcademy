@@ -27,18 +27,6 @@ We believe the best way to learn is by **creating together**.
 
 ---
 
-## 📂 Featured Repositories
-Here are some of our core projects:
-
-- [**YahyawwCademy-website**](https://github.com/YahyawwCademy/YahyawwCademy-website) → Our main landing page (Next.js + TailwindCSS)  
-- [**YahyawwCademy-resources**](https://github.com/YahyawwCademy/YahyawwCademy-resources) → Free study notes, guides, and learning materials  
-- [**YahyawwCademy-projects**](https://github.com/YahyawwCademy/YahyawwCademy-projects) → Starter projects for contributors  
-- [**YahyawwCademy-platform**](https://github.com/YahyawwCademy/YahyawwCademy-platform) → Future e-learning hub  
-
-👉 [Explore all repositories →](https://github.com/YahyawwCademy?tab=repositories)
-
----
-
 ## 🌐 Join the Community
 We’re not just code — we’re people. Come learn, share, and grow with us:
 
