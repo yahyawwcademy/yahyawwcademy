@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?logo=discord&style=for-the-badge" alt="Join Discord"></a>
-  <a href="https://reddit.com/r/YahyawwCademy"><img src="https://img.shields.io/reddit/subreddit-subscribers/YOUR_SUBREDDIT?style=for-the-badge" alt="Reddit"></a>
+  <a href="https://reddit.com/r/yahyawwcademy"><img src="https://img.shields.io/reddit/subreddit-subscribers/YOUR_SUBREDDIT?style=for-the-badge" alt="Reddit"></a>
   <a href="https://github.com/YahyawwCademy"><img src="https://img.shields.io/github/stars/YahyawwCademy?style=for-the-badge" alt="GitHub Stars"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" alt="License"></a>
 </p>
