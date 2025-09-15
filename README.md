@@ -1,7 +1,7 @@
 <!-- YahyawwCademy Profile README -->
 
 <p align="center">
-  <img src="https://github.com/yahyawwcademy/yahyawwcademy/blob/main/images/yahyawwcademy_logo.png" alt="YahyawwCademy Logo" width="30%"/>
+  <img src="https://github.com/yahyawwcademy/yahyawwcademy/blob/main/images/yahyawwcademy_logo.png" alt="YahyawwCademy Logo" width="50%"/>
 </p>
 
 <p align="center">
